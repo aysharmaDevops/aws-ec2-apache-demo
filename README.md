@@ -1,4 +1,4 @@
-# AWS EC2 Apache Demo 🚀
+# AWS EC2 Apache Webserver 🚀
 
 This project demonstrates how to **launch an AWS EC2 instance**, install **Apache HTTP server**, and host a simple webpage.  
 
